@@ -1,0 +1,13 @@
+Crear una base de datos llamada llamada bdTemporal 
+con una tabla llamada clientes con los siguientes atributos:
+id 
+nombreCliente 
+ciudad telefono
+Crear una tabla que tenga atributos en sus columnas y defina el nombre de la base de datos en la tabla
+con los siguientes atributos:
+id
+nombreProducto 
+costo
+precioVenta
+existencia
+Comprobando los atributos y tipos de datos
